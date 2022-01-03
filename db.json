@@ -1,0 +1,20 @@
+{
+    "personalData" : [
+    {
+        "id" : 0,
+        "firstName": "Azlan",
+        "lastName": "Abas",
+        "age" : "50",
+        "location": "Bali",
+        "phoneNumber": "06192797122"
+    },
+    {
+        "id" : 1,
+        "firstName": "Issa",
+        "lastName": "Kumalasari",
+        "age" : "40",
+        "location": "Jakarta",
+        "phoneNumber": "0628179200011"
+    }
+    ]}
+
